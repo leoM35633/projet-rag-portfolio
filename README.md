@@ -1,13 +1,21 @@
 # Projet LLM - Léo MAURICE
 
-# Lancement de l'application Streamlit
-streamlit run src/app.py
+# Lien vers l'application stremlit - version de production (PROD)
+Ci-dessous le lien vers mon application déployée sur le cloud.
 
+[Lien vers l'application déployée](https://projet-rag-portfolio-eqewklspeppuwmwpge24kf.streamlit.app/)
+
+
+# Lancement de l'application Streamlit en version de dévellopement (DEV)
+```bash
+streamlit run src/app.py
+```
 Si page blanche au début, veuillez attendre.
 L'application est en cours de chargement.
 
 # Techno
     - Python
+    - Streamlit
     - Upstach
     - Agent ChatGPT
 
